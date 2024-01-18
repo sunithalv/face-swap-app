@@ -35,7 +35,7 @@ def temp():
 
         logger.info('Image accepted form user')
 
-        #Call the FaceApp Class
+        #Call the FaceApp Class 
         face_app = FaceApp(source_path, dest_path, output_path)
         face_app.run()
 
