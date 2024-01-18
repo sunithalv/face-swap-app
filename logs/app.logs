@@ -1,0 +1,84 @@
+[ 2024-01-16 22:51:35,017 ] face_app.face_app - INFO - FaceApp instance created
+[ 2024-01-16 22:51:35,085 ] face_app.face_app - INFO - reading source image
+[ 2024-01-16 22:51:35,101 ] face_app.face_app - INFO - Contour Created
+[ 2024-01-16 22:51:35,107 ] face_app.face_app - INFO - triangle id created
+[ 2024-01-16 22:51:35,131 ] face_app.face_app - INFO - Extraction of source image pints started
+[ 2024-01-16 22:51:35,134 ] face_app.face_app - INFO - Extraction finished
+[ 2024-01-16 22:51:35,134 ] face_app.face_app - INFO - Face mask creating started
+[ 2024-01-16 22:51:35,144 ] face_app.face_app - INFO - Face Mask Created
+[ 2024-01-16 22:51:35,145 ] face_app.face_app - INFO - Rendering generated image
+[ 2024-01-16 22:51:35,184 ] face_app.face_app - INFO - rendering finished
+[ 2024-01-16 22:52:42,732 ] face_app.face_app - INFO - FaceApp instance created
+[ 2024-01-16 22:52:42,777 ] face_app.face_app - INFO - reading source image
+[ 2024-01-16 22:52:42,781 ] face_app.face_app - INFO - Contour Created
+[ 2024-01-16 22:52:42,783 ] face_app.face_app - INFO - triangle id created
+[ 2024-01-16 22:52:42,807 ] face_app.face_app - INFO - Extraction of source image pints started
+[ 2024-01-16 22:52:42,810 ] face_app.face_app - INFO - Extraction finished
+[ 2024-01-16 22:52:42,810 ] face_app.face_app - INFO - Face mask creating started
+[ 2024-01-16 22:52:42,817 ] face_app.face_app - INFO - Face Mask Created
+[ 2024-01-16 22:52:42,817 ] face_app.face_app - INFO - Rendering generated image
+[ 2024-01-16 22:52:42,850 ] face_app.face_app - INFO - rendering finished
+[ 2024-01-17 10:12:25,969 ] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.184:5000
+[ 2024-01-17 10:12:25,970 ] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-01-17 10:12:52,592 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:12:52] "GET / HTTP/1.1" 200 -
+[ 2024-01-17 10:12:53,117 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:12:53] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2024-01-17 10:12:53,137 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:12:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-01-17 10:15:11,276 ] __main__ - INFO - Image accepted form user
+[ 2024-01-17 10:15:12,358 ] face_app.face_app - INFO - FaceApp instance created
+[ 2024-01-17 10:15:12,392 ] face_app.face_app - INFO - reading source image
+[ 2024-01-17 10:15:12,402 ] face_app.face_app - INFO - Contour Created
+[ 2024-01-17 10:15:12,404 ] face_app.face_app - INFO - triangle id created
+[ 2024-01-17 10:15:12,425 ] face_app.face_app - INFO - Extraction of source image pints started
+[ 2024-01-17 10:15:12,430 ] face_app.face_app - INFO - Extraction finished
+[ 2024-01-17 10:15:12,430 ] face_app.face_app - INFO - Face mask creating started
+[ 2024-01-17 10:15:12,437 ] face_app.face_app - INFO - Face Mask Created
+[ 2024-01-17 10:15:12,437 ] face_app.face_app - INFO - Rendering generated image
+[ 2024-01-17 10:15:12,461 ] face_app.face_app - INFO - rendering finished
+[ 2024-01-17 10:15:12,481 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:15:12] "POST /temp HTTP/1.1" 200 -
+[ 2024-01-17 10:15:12,503 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:15:12] "GET /static/images/modified.jpg HTTP/1.1" 200 -
+[ 2024-01-17 10:30:51,479 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:30:51] "GET / HTTP/1.1" 200 -
+[ 2024-01-17 10:30:51,506 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:30:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-01-17 10:31:02,168 ] __main__ - INFO - Image accepted form user
+[ 2024-01-17 10:31:05,693 ] face_app.face_app - INFO - FaceApp instance created
+[ 2024-01-17 10:31:05,768 ] face_app.face_app - INFO - reading source image
+[ 2024-01-17 10:31:05,776 ] face_app.face_app - INFO - Contour Created
+[ 2024-01-17 10:31:05,784 ] face_app.face_app - INFO - triangle id created
+[ 2024-01-17 10:31:05,863 ] face_app.face_app - INFO - Extraction of source image pints started
+[ 2024-01-17 10:31:05,869 ] face_app.face_app - INFO - Extraction finished
+[ 2024-01-17 10:31:05,869 ] face_app.face_app - INFO - Face mask creating started
+[ 2024-01-17 10:31:05,891 ] face_app.face_app - INFO - Face Mask Created
+[ 2024-01-17 10:31:05,891 ] face_app.face_app - INFO - Rendering generated image
+[ 2024-01-17 10:31:05,955 ] face_app.face_app - INFO - rendering finished
+[ 2024-01-17 10:31:05,998 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:31:05] "POST /temp HTTP/1.1" 200 -
+[ 2024-01-17 10:31:06,017 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:31:06] "GET /static/images/modified.jpg HTTP/1.1" 200 -
+[ 2024-01-17 10:33:08,110 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:33:08] "GET / HTTP/1.1" 200 -
+[ 2024-01-17 10:33:08,163 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:33:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2024-01-17 10:33:22,398 ] __main__ - INFO - Image accepted form user
+[ 2024-01-17 10:33:25,857 ] face_app.face_app - INFO - FaceApp instance created
+[ 2024-01-17 10:33:25,935 ] face_app.face_app - INFO - reading source image
+[ 2024-01-17 10:33:25,942 ] face_app.face_app - INFO - Contour Created
+[ 2024-01-17 10:33:25,949 ] face_app.face_app - INFO - triangle id created
+[ 2024-01-17 10:33:26,030 ] face_app.face_app - INFO - Extraction of source image pints started
+[ 2024-01-17 10:33:26,037 ] face_app.face_app - INFO - Extraction finished
+[ 2024-01-17 10:33:26,037 ] face_app.face_app - INFO - Face mask creating started
+[ 2024-01-17 10:33:26,057 ] face_app.face_app - INFO - Face Mask Created
+[ 2024-01-17 10:33:26,058 ] face_app.face_app - INFO - Rendering generated image
+[ 2024-01-17 10:33:26,111 ] face_app.face_app - INFO - rendering finished
+[ 2024-01-17 10:33:26,150 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:33:26] "POST /temp HTTP/1.1" 200 -
+[ 2024-01-17 10:33:26,171 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:33:26] "GET /static/images/modified.jpg HTTP/1.1" 200 -
+[ 2024-01-17 10:33:55,725 ] __main__ - INFO - Image accepted form user
+[ 2024-01-17 10:33:59,176 ] face_app.face_app - INFO - FaceApp instance created
+[ 2024-01-17 10:33:59,253 ] face_app.face_app - INFO - reading source image
+[ 2024-01-17 10:33:59,261 ] face_app.face_app - INFO - Contour Created
+[ 2024-01-17 10:33:59,268 ] face_app.face_app - INFO - triangle id created
+[ 2024-01-17 10:33:59,341 ] face_app.face_app - INFO - Extraction of source image pints started
+[ 2024-01-17 10:33:59,347 ] face_app.face_app - INFO - Extraction finished
+[ 2024-01-17 10:33:59,347 ] face_app.face_app - INFO - Face mask creating started
+[ 2024-01-17 10:33:59,367 ] face_app.face_app - INFO - Face Mask Created
+[ 2024-01-17 10:33:59,368 ] face_app.face_app - INFO - Rendering generated image
+[ 2024-01-17 10:33:59,433 ] face_app.face_app - INFO - rendering finished
+[ 2024-01-17 10:33:59,468 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:33:59] "POST /temp HTTP/1.1" 200 -
+[ 2024-01-17 10:33:59,486 ] werkzeug - INFO - 127.0.0.1 - - [17/Jan/2024 10:33:59] "GET /static/images/modified.jpg HTTP/1.1" 200 -
