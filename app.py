@@ -39,8 +39,6 @@ def temp():
         face_app = FaceApp(source_path, dest_path, output_path)
         face_app.run()
 
-
-
         display_image = os.path.join(app.config['UPLOAD_FOLDER'], 'modified.jpg')
         return render_template('result.html', user_image=display_image)
     
