@@ -35,9 +35,10 @@ def temp():
 
         logger.info('Image accepted form user')
 
+        #Call the FaceApp Class
         face_app = FaceApp(source_path, dest_path, output_path)
         face_app.run()
-        
+
 
 
         display_image = os.path.join(app.config['UPLOAD_FOLDER'], 'modified.jpg')
