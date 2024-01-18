@@ -33,7 +33,7 @@ def temp():
         source_img.save(source_path)
         destination_img.save(dest_path)
 
-        logger.info('Image accepted form user')
+        logger.info('Image accepted from user')
 
         #Call the FaceApp Class 
         face_app = FaceApp(source_path, dest_path, output_path)
