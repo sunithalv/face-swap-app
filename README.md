@@ -53,6 +53,7 @@ http://localhost:5000/
 2. dlib 
 3. openCV 
 4. Flask
+5. Deployment using Amazon EC2 instance with ECR
 
 ## 🏭 Industrial Use-cases 
 1. Add effects to the photos
